@@ -37,7 +37,7 @@ Five characteristics of different individuals commonly known as big five charact
 
 ## Setup Instructions:
 1. Clone the repository <br>
-[`git clone https://github.com/Anjali2001saxena/Personality_Prediction_Project.git`](https://github.com/Laxmi-hargunani/Personality_prediction/settings/pages)
+[[`git clone https://github.com/Anjali2001saxena/Personality_Prediction_Project.git`](https://github.com/Laxmi-hargunani/Personality_prediction/settings/pages)](https://github.com/Laxmi-hargunani/Personality_prediction/settings/pages)
 2. Change the current working directory <br>
 `cd Personality_Prediction_Project`
 3. Activate the virual environment <br>
